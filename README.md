@@ -13,13 +13,13 @@
 
 <h3 align="center">
 
-♻️ Ecoleta é um projeto **Open Source** desenvolvido na semana **Next Level Week (1.0)** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React e React Native***.
+♻️  Ecoleta é um projeto **Open Source** desenvolvido na semana **Next Level Week (1.0)** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React e React Native***.
 
 </h3>
 
 ![Banner](https://user-images.githubusercontent.com/38081852/84095189-04178580-a9d5-11ea-9496-9ec6f6a282e5.png)
 
-## **:rocket: OBJETIVO**
+## **:rocket:  OBJETIVO**
 
 O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou entidades que coletam resíduos** (orgânicos e inorgânicos) **às pessoas e/ou entidades que necessitam constantemente descartar esses resíduos**. Solucionando um grande problema recorrente que é o **descarte inadequado do lixo**, facilitando o processo de recliclagem e reutilização.
 
@@ -29,7 +29,7 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
   ...
 -->
 
-## **:computer: TECNOLOGIAS**
+## **:computer:  TECNOLOGIAS**
 
 
 #### **Website** ([React][react] + [TypeScript][typescript])
@@ -85,7 +85,7 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
 - Fontes: **[Ubuntu][font_ubuntu]**, **[Roboto][font_roboto]**
 
 
-## **:wine_glass: COMO UTILIZAR**
+## **:wine_glass:  COMO UTILIZAR**
 
 ### Configurações Iniciais
 
@@ -194,7 +194,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
 **\* Lembre de inserir no arquivo `.env` o IP exato que foi gerado pelo seu mobile após utilizar o comando `npm run start`.**
 
-## **:octocat: COMO CONTRIBUIR**
+## **:octocat:  COMO CONTRIBUIR**
   
   - Verifique as **[Issues](https://github.com/x0n4d0/ecoleta/projects/1)** que estão abertas e se já não existe alguma com a sua feature;
   - Abra uma **Issue** com o nome e descrição da sua feature e assine com o seu usuário informando que irá fazê-la;
@@ -226,7 +226,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
   \* **Obrigado por contribuir!** ❤️ :facepunch: :blush:
 
-## **:star2: AGRADECIMENTOS**
+## **:star2:  AGRADECIMENTOS**
 
 <div align=center>
 
@@ -263,7 +263,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
 </div>
 
-## **:books: REFERÊNCIAS**
+## **:books:  REFERÊNCIAS**
 
 - [React + TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [Blog Rocketseat](https://blog.rocketseat.com.br/)
@@ -277,7 +277,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 - [Celebrate](https://github.com/arb/celebrate)
 - [Joi](https://hapi.dev/module/joi/)
 
-## **:page_with_curl: LICENÇA**
+## **:page_with_curl:  LICENÇA**
 
 Esse repositório está licenciado pela **MIT LICENSE**. Para mais informações detalhadas, leia o arquivo [LICENSE](./LICENSE) contido nesse repositório. 
 
